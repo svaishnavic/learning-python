@@ -1,0 +1,5 @@
+(11+3j) (9+1j) (8+12j) (6-4j)
+False
+False
+False
+True
