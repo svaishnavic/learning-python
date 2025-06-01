@@ -3,3 +3,5 @@ for i in range (101):
         print ( "fizz")
     if i % 2 == 0:
         print ( "fuzz")
+import time
+time.sleep(1)
