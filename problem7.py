@@ -48,13 +48,15 @@ for i in range (10) :
         import math
         f1= float1
         tf = math.tan(f1)
+        print(tf)
         f2= float2 
         tf1= math.tan(f2)
+        print(tf1)
     if operation == "log" :
         import math 
         f1 = float1
         lf = math.log(f1)
-        print( lf)
+        print( lf)7
         f2= float2 
         lf1= math.log( f2)
         print(lf1)
