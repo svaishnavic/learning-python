@@ -1,3 +1,0 @@
-0.3122704866202942 0.6591415087016703
-Choose one operation: + - * /
-Give operation: 
