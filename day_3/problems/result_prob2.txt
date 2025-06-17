@@ -1,0 +1,18 @@
+['OK', 'NOK', 'hello', 'hi']
+hi
+hello
+OK
+['OK', 'NOK', 'hello', 'hello']
+3
+['OK', 'NOK']
+['hello', 'hi']
+['hi', 'hello', 'NOK', 'OK']
+['OK', 'hello']
+OK
+NOK
+hello
+hi
+2
+3
+5
+2
