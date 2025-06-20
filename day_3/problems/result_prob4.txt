@@ -1,0 +1,3 @@
+num of even lengths = 2
+num of odd lenghts = 2
+total length of all strings = 12
