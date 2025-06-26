@@ -1,0 +1,10 @@
+{'me': [200, 300], 'you': [400, 1, 2]}
+<class 'list'>
+2
+3
+2
+{'me': [200, 300, 20, 30], 'you': [400, 1, 2]}
+550
+403
+ required sum of 'me' : 554
+ required sum of 'you': 406
