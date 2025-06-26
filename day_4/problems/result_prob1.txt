@@ -1,0 +1,17 @@
+400
+{'me': 200, 'you': 400, 'someone': 20}
+{'me': 200, 'you': 400, 'someone': 200}
+3
+False
+dict_keys(['me', 'you', 'someone'])
+{'me': 300, 'you': 500, 'someone': 300}
+['__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getstate__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__ior__', '__iter__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__or__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__ror__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values']
+Help on method_descriptor:
+
+update(...) unbound builtins.dict method
+    D.update([E, ]**F) -> None.  Update D from mapping/iterable E and F.
+    If E is present and has a .keys() method, then does:  for k in E.keys(): D[k] = E[k]
+    If E is present and lacks a .keys() method, then does:  for k, v in E: D[k] = v
+    In either case, this is followed by: for k in F:  D[k] = F[k]
+
+{'me': 250, 'you': 500, 'someone': 300, 'us': 500}
