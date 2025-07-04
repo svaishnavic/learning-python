@@ -1,0 +1,3 @@
+Union: {'ok': 1, 'nok': 2, 'new': 3}
+Intersection: {'ok': 1}
+Difference: {'nok': 2}
