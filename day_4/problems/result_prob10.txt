@@ -1,0 +1,4 @@
+usa : {'+ive': 21, 'test': 201.5} 
+india : {'+ive': 15.75, 'test': 101} 
+af : {'+ive': 2, 'test': 20} 
+zim : {'+ive': 10, 'test': 1} 
